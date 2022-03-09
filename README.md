@@ -14,8 +14,15 @@ Foi adicionado o gerenciador de placas http://arduino.esp8266.com/stable/package
 instalado o esp8266 community versão 2.7.4
 ![image](https://user-images.githubusercontent.com/64553168/157466865-2a529cab-d21b-40e9-b0f4-5149e9da28c5.png)
 
-adicionado as bibliotecas abaixo.
+informe a placa usada wemos d1
+![image](https://user-images.githubusercontent.com/64553168/157539999-34606835-826f-4917-88e4-befa050e1456.png)
+
+selecione COM3
+
+![image](https://user-images.githubusercontent.com/64553168/157540136-dbffb336-0344-412f-b47e-e823f0f21a7e.png)
+
+
+caso necessário, adicionado as bibliotecas abaixo.
 ![image](https://user-images.githubusercontent.com/64553168/157467322-c64a339a-4867-4e1c-9007-abba81243c5e.png)
 
-
-
+Carregue o arquivo.
