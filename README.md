@@ -25,4 +25,4 @@ selecione COM3
 caso necessário, adicionado as bibliotecas abaixo.
 ![image](https://user-images.githubusercontent.com/64553168/157467322-c64a339a-4867-4e1c-9007-abba81243c5e.png)
 
-Carregue o arquivo.
+Carregue o arquivo LigarPC_WemosD1.ino.
